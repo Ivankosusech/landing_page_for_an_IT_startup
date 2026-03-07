@@ -1,45 +1,29 @@
-# ⚡ TechFlow — Лендинг IT-стартапа
+# 🚀 TechFlow Landing Page
 
-![TechFlow Preview](https://img.shields.io/badge/TechFlow-IT_SaaS_Landing-7c3aed?style=for-the-badge&logo=vercel)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Demo](https://img.shields.io/badge/demo-live-brightgreen?style=flat-square)](https://ivankosusech.github.io/landing_page_for_an_IT_startup/)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
 
-> Современный лендинг для IT-стартапа с анимациями, тёмной темой и конверсионной структурой.
-
----
-
-## 🔗 Ссылки
-
-| 📌 Назначение | 🔗 Ссылка |
-|--------------|----------|
-| 🚀 **Демо (онлайн)** | [👉 Посмотреть сайт](https://ivankosusech.github.io/landing_page_for_a_gym/index.html) |
-| 💻 **Исходный код** | [📂 Открыть репозиторий](https://github.com/Ivankosusech/landing_page_for_a_gym) |
-| 📥 **Скачать архив** | [⬇️ ZIP](https://github.com/Ivankosusech/landing_page_for_a_gym/archive/refs/heads/main.zip) |
+> 🤖 Лендинг для **TechFlow** — платформы автоматизации бизнеса на базе искусственного интеллекта
 
 ---
 
 ## 📋 О проекте
 
-**TechFlow** — готовый лендинг для IT-стартапа, представляющий платформу автоматизации бизнеса на базе ИИ. Разработан с фокусом на конверсию, современный дизайн и техническую презентацию продукта.
+**TechFlow** — современный одностраничный сайт для презентации инновационного продукта в сфере бизнес-автоматизации. Лендинг демонстрирует ключевые преимущества платформы, тарифные планы, отзывы клиентов и призывы к действию.
 
-### ✨ Особенности
-- 🎨 Тёмная тема с неоновыми градиентами (фиолетовый/голубой/розовый)
-- ✨ Анимированный фон с плавающими элементами
-- 📱 Полностью адаптивная вёрстка (mobile-first)
-- 🎭 Анимации при скролле (Intersection Observer)
-- ⚡ Плавная прокрутка к секциям
-- 📊 Анимированные счётчики статистики
-- 🍔 Адаптивное мобильное меню
-- 💳 Тарифные карточки с выделением популярного плана
-- 🗣️ Секция отзывов с рейтингом
-- 🎯 Множественные CTA-кнопки
+### 🎯 Цель проекта
+- ✅ Презентация продукта для потенциальных клиентов
+- ✅ Генерация лидов через формы регистрации
+- ✅ Демонстрация возможностей платформы в стильном адаптивном интерфейсе
 
 ---
 
-## 🚀 Быстрый старт
+## ✨ Особенности
 
-### 👁️ Посмотреть демо
-Сайт размещён на GitHub Pages:  
-[🔗 **Открыть TechFlow в браузере**](https://ivankosusech.github.io/landing_page_for_a_gym/index.html)
+- 🎨 **Современный дизайн** — тёмная тема с яркими акцентами
+- 📱 **Полная адаптивность** — mobile-first подход, корректное отображение на всех устройствах
+- ⚡ **Высокая производительность** — чистый HTML/CSS/JS без тяжёлых зависимостей
+- 🧭 **Удобная навигация** — якорные ссылки с плавной прокруткой
+- 🔗 **Готовность к интеграциям** — структура подготовлена для подключения форм и аналитики
